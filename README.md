@@ -1,2 +1,3 @@
 # pureJavaScript
-java script features
+
+java-script features
